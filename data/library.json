@@ -1,0 +1,23 @@
+{
+    "games": {
+        "playing": [],
+        "ended": [],
+        "want_to_play": [],
+        "end_it_later": [],
+        "dont_want_to_end": []
+    },
+    "manga": {
+        "reading": [],
+        "read": [],
+        "want_to_read": [],
+        "end_it_later": [],
+        "dont_want_to_end": []
+    },
+    "movies": {
+        "watching": [],
+        "watched": [],
+        "want_to_watch": [],
+        "end_it_later": [],
+        "dont_want_to_end": []
+    }
+}

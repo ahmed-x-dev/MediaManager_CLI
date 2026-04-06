@@ -1,4 +1,5 @@
 # 📚 Terminal Media Library
+# 📚 Terminal Media Library
 
 A lightweight terminal-based media library to organize your **games, movies, series, and manga** all in one place. Manage your entertainment collection with ease using a simple CLI interface and persistent JSON storage.
 
